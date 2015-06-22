@@ -4,12 +4,6 @@ module Numpad
 
 {-| Library for working with a numpad.
 
-```
-7 8 9
-4 5 6
-1 2 3
-```
-
 @docs numpad
 
 -}
